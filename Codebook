@@ -1,0 +1,6 @@
+The subject, activity, and mean and std of measurments are extracted by the function.
+
+accelerometer measurement is in units (g)
+gyroscope measurement is in units (rad/sec)
+subject are unitless and are the test subjects
+activity are factors with 6 levels
